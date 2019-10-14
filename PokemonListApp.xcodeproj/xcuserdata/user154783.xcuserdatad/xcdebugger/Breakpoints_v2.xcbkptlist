@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1B98092E-ED8C-41F3-8895-A028D8BF727A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "184B0AA1-F019-424C-B344-A8612A62A0A0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PokemonListApp/TableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2CCC806E-BDE7-4068-B8E8-B325E43BBEDD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PokemonListApp/TableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "TableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "2CCC806E-BDE7-4068-B8E8-B325E43BBEDD - d6c21ad08a009569"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PokemonListApp.TableViewController.presenter.getter : PokemonListApp.TablePresenter"
+                  moduleName = "PokemonListApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user154783/Desktop/Work/PokemonListApp/PokemonListApp/TableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "2CCC806E-BDE7-4068-B8E8-B325E43BBEDD - 3637052b73e65955"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PokemonListApp.TableViewController.presenter.setter : PokemonListApp.TablePresenter"
+                  moduleName = "PokemonListApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user154783/Desktop/Work/PokemonListApp/PokemonListApp/TableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "2CCC806E-BDE7-4068-B8E8-B325E43BBEDD - 226e4ab6c08d326a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PokemonListApp.TableViewController.presenter.modify : PokemonListApp.TablePresenter"
+                  moduleName = "PokemonListApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user154783/Desktop/Work/PokemonListApp/PokemonListApp/TableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "2CCC806E-BDE7-4068-B8E8-B325E43BBEDD - 66285ee20b2c9420"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PokemonListApp.TableViewController.presenter.modify : PokemonListApp.TablePresenter with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "PokemonListApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user154783/Desktop/Work/PokemonListApp/PokemonListApp/TableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "2CCC806E-BDE7-4068-B8E8-B325E43BBEDD - 5ce74184708b61d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PokemonListApp.TableViewController.init(style: __C.UITableViewStyle) -&gt; PokemonListApp.TableViewController"
+                  moduleName = "PokemonListApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user154783/Desktop/Work/PokemonListApp/PokemonListApp/TableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "45">
+               </Location>
+               <Location
+                  uuid = "2CCC806E-BDE7-4068-B8E8-B325E43BBEDD - ca1cdf3b09bc2e1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PokemonListApp.TableViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; PokemonListApp.TableViewController"
+                  moduleName = "PokemonListApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user154783/Desktop/Work/PokemonListApp/PokemonListApp/TableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "150">
+               </Location>
+               <Location
+                  uuid = "2CCC806E-BDE7-4068-B8E8-B325E43BBEDD - 7557284b42dc4ed8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PokemonListApp.TableViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;PokemonListApp.TableViewController&gt;"
+                  moduleName = "PokemonListApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user154783/Desktop/Work/PokemonListApp/PokemonListApp/TableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C4A915A6-C4E8-44DB-8792-A470A165D3CD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PokemonListApp/Model.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "loadData(completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C4A915A6-C4E8-44DB-8792-A470A165D3CD - 8d1328ed33b50a73"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PokemonListApp.Model.loadData(completionHandler: Swift.Optional&lt;(Swift.Array&lt;PokemonListApp.Pokemon&gt;) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "PokemonListApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user154783/Desktop/Work/PokemonListApp/PokemonListApp/Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "804">
+               </Location>
+               <Location
+                  uuid = "C4A915A6-C4E8-44DB-8792-A470A165D3CD - 60ad2697549c92ed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in PokemonListApp.Model.loadData(completionHandler: Swift.Optional&lt;(Swift.Array&lt;PokemonListApp.Pokemon&gt;) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "PokemonListApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user154783/Desktop/Work/PokemonListApp/PokemonListApp/Model.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "4377">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6F806C1C-6DFA-441C-8A7F-DAF4398260BE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PokemonListApp/TableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
